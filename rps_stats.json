@@ -1,16 +1,46 @@
 {
-  "games_played": 1,
-  "wins": 0,
-  "losses": 0,
-  "ties": 1,
+  "games_played": 7,
+  "wins": 2,
+  "losses": 3,
+  "ties": 2,
   "move_history": [
     [
       "tijera",
       "tijera"
+    ],
+    [
+      "piedra",
+      "papel"
+    ],
+    [
+      "piedra",
+      "tijera"
+    ],
+    [
+      "papel",
+      "piedra"
+    ],
+    [
+      "tijera",
+      "tijera"
+    ],
+    [
+      "piedra",
+      "papel"
+    ],
+    [
+      "piedra",
+      "papel"
     ]
   ],
   "results_history": [
-    "empate"
+    "empate",
+    "derrota",
+    "victoria",
+    "victoria",
+    "empate",
+    "derrota",
+    "derrota"
   ],
   "start_date": "2025-09-27"
 }
