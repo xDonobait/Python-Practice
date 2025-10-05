@@ -1,8 +1,8 @@
 {
-  "games_played": 7,
+  "games_played": 8,
   "wins": 2,
   "losses": 3,
-  "ties": 2,
+  "ties": 3,
   "move_history": [
     [
       "tijera",
@@ -31,6 +31,10 @@
     [
       "piedra",
       "papel"
+    ],
+    [
+      "piedra",
+      "piedra"
     ]
   ],
   "results_history": [
@@ -40,7 +44,8 @@
     "victoria",
     "empate",
     "derrota",
-    "derrota"
+    "derrota",
+    "empate"
   ],
   "start_date": "2025-09-27"
 }
