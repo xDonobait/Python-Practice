@@ -6,7 +6,7 @@ import random
 class RomanticMessage:
     def __init__(self):
         self.root = tk.Tk()
-        self.root.title("Mensaje para Kam")
+        self.root.title("Para Kam")
         self.root.geometry("800x600")
         self.root.configure(bg='#FFE5E5')
 
@@ -20,11 +20,11 @@ class RomanticMessage:
             "Tu presencia ilumina mi vida",
             "Contigo todo es mejor",
             "Gracias por ser parte de mi vida",
-            "Eres increible, Kam"
+            "Te amo con todo mi ser"
         ]
 
         self.current_message = 0
-        self.heart_symbols = ['♥', '❤', '💕', '💖', '💗', '💓', '💞', '💝']
+        self.heart_symbols = ['♥', '❤', '💕', '💖', '💗', '💓', '💞', '💝', '🐸']
 
         self.title_label = None
         self.message_label = None
